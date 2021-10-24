@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 👋 I'm Arman Malekzadeh.
+
+I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been over 7 years since the start of that journey, and I still feel like the same boy with the same dream!
+
+### Research 🔭
+
+My research is mainly focused on Natural Language Processing (NLP). I designed the first intelligent Persian reverse dictionary while I was a master's student at Amirkabir University of Technology, also known as the Polytechnic University of Tehran. Nowadays, I am working on developing robust Persian language models at the CE department of Sharif University of Technology.
 
 <!--
 **arm-on/arm-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
