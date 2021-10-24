@@ -6,7 +6,7 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 My research is mainly focused on Natural Language Processing (NLP). I designed the first intelligent Persian reverse dictionary while I was a master's student at Amirkabir University of Technology, also known as the Polytechnic University of Tehran. Nowadays, I am working on developing robust Persian language models at the CE department of Sharif University of Technology.
 
-### Contact
+### Contact :email:
 
 Please feel free to contact me if you have anything to discuss about #universitylife, #natural_language_processing, #machine_learning, and any related topic!
 My Emails: malekzadeh@ieee.org, malekzaadeh@ce.sharif.edu
