@@ -9,7 +9,7 @@ My research is mainly focused on Natural Language Processing (NLP). I designed t
 ### Contact :email:
 
 Please feel free to contact me if you have anything to discuss about `#universitylife`, `#natural_language_processing`, `#machine_learning`, and any related topic!
-My Emails: malekzadeh@ieee.org, malekzaadeh@ce.sharif.edu
+My Emails: malekzadeh@ieee.org, arman.malekzadeh@sharif.edu
 
 <!--
 **arm-on/arm-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
