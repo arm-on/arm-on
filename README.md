@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Arman Malekzadeh.
 
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/malekzadeharman/dataset">
+<a href="https://www.kaggle.com/malekzadeharman"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/malekzadeharman"></a>
 
 
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been over 7 years since the start of that journey, and I still feel like the same boy with the same dream!
