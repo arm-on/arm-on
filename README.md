@@ -5,7 +5,7 @@
 
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been over 7 years since the start of that journey, and I still feel like the same boy with the same dream!
 
-### Content Production
+### Content Production :tv:
 
 One of the things I like to do on a regular basis is to provide others with the experience I have gained throughout these years as a university student, and as an AI developer. To move towards reaching this goal, I have recently launched two Youtube channels, one in English and the other one in Persian. They are both called AINT, which stands for "Artificial Intelligence Novel Television". If you are interested in learning about AI, ML, and related topics, my channels may be a good start!
 
