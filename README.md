@@ -13,7 +13,7 @@ Links: [AINT (Persian)](https://www.youtube.com/c/AINTFA) | [AINT (English)](htt
 
 ### Research 🔭
 
-My research is mainly focused on Natural Language Processing (NLP). I designed the first intelligent Persian reverse dictionary while I was a master's student at Amirkabir University of Technology, also known as the Polytechnic University of Tehran. Nowadays, I am working on developing robust Persian language models at the CE department of Sharif University of Technology.
+My research was focused on Natural Language Processing (NLP) in the past. I designed the first intelligent Persian reverse dictionary while I was a master's student at Amirkabir University of Technology, also known as the Polytechnic University of Tehran. Nowadays, I am working on developing robust ML models at the CE department of Sharif University of Technology.
 
 ### Contact :email:
 
