@@ -6,7 +6,7 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been over many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 Please feel free to contact me if you have anything to discuss about `#universitylife`, `#natural_language_processing`, `#machine_learning`, and any related topic!
-My Emails: malekzadeh@ieee.org
+My Email: malekzadeh@ieee.org
 
 <!--
 **arm-on/arm-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
