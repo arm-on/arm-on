@@ -4,3 +4,5 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 Please feel free to contact me if you have anything to discuss about `#universitylife`, `#natural_language_processing`, `#machine_learning`, and any related topic!
 My Email: malekzadeh@ieee.org
+
+Quote of the day: "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law." / Pablo Picasso
