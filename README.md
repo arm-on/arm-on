@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by E. M. Forster: 
->One must be fond of people and trust them if one is not to make a mess of life.
+💡 Quote of the day by Aristotle: 
+>The energy of the mind is the essence of life.
