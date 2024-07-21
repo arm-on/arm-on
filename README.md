@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Johann Wolfgang von Goethe: 
->The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+💡 Quote of the day by Albert Schweitzer: 
+>One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
