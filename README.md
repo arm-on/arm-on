@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Helen Keller: 
->The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+💡 Quote of the day by Thomas Fuller: 
+>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
