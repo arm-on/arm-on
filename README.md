@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by George Allen: 
->People of mediocre ability sometimes achieve outstanding success because they don't know when to quit. Most men succeed because they are determined to.
+💡 Quote of the day by Lucille Ball: 
+>I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
