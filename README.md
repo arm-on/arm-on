@@ -4,4 +4,4 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 
 💡 Quote of the day by Albert Einstein: 
->I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+>A person who never made a mistake never tried anything new.
