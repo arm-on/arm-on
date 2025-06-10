@@ -4,4 +4,4 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 
 💡 Quote of the day by Thich Nhat Hanh: 
->The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+>Smile, breathe and go slowly.
