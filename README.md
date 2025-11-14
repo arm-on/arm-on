@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Richard Bach: 
->Ask yourself the secret of your success. Listen to your answer, and practice it.
+💡 Quote of the day by Mahatma Gandhi: 
+>Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
