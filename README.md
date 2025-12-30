@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Albert Einstein: 
->Logic will get you from A to B. Imagination will take you everywhere.
+💡 Quote of the day by Johann Wolfgang von Goethe: 
+>If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
