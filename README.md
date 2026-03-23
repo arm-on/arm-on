@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Confucius: 
->Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+💡 Quote of the day by Oprah Winfrey: 
+>Follow your instincts. That is where true wisdom manifests itself.
