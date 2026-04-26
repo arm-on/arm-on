@@ -4,4 +4,4 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 
 💡 Quote of the day by Lao Tzu: 
->At the center of your being you have the answer; you know who you are and you know what you want.
+>By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
