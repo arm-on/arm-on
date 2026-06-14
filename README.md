@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by G. K. Chesterton: 
->I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+💡 Quote of the day by Chuang Tzu: 
+>Flow with whatever is happening and let your mind be free. Stay centred by accepting whatever you are doing. This is the ultimate.
