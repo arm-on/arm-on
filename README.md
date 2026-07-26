@@ -4,4 +4,4 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 
 💡 Quote of the day by Seneca: 
->The greatest remedy for anger is delay.
+>Luck is what happens when preparation meets opportunity.
