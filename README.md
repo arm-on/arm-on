@@ -4,4 +4,4 @@ I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a 
 
 
 💡 Quote of the day by Epictetus: 
->If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.
+>Freedom is the right to live as we wish.
