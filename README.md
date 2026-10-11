@@ -3,5 +3,5 @@
 I grew up in Lahijan, a city in the north of Iran. Since I was a child, I had a passion for working with computers. After a few years, the passion inside me was transformed into a dream of becoming a computer scientist. The dream made me leave my hometown to start a long academic journey as a CS student in Tehran, where I met a lot of people having big ideas. It has been many years since the start of that journey, and I still feel like the same boy with the same dream!
 
 
-💡 Quote of the day by Byron Roberts: 
->It is not the mistake that has the most power, instead, it is learning from the mistake to advance your own attributes.
+💡 Quote of the day by Edward de Bono: 
+>It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
